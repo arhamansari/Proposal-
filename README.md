@@ -1,2 +1,4 @@
 # Proposal-
 About Intern Proposal to startup.
+
+Filli Cafe(One of the Cafe) do not use advance data analysis to improve and evaluate their performance ,I proposed them to initiate with the same .Since i was looking for internship i needed indepth knowledge of how actually in real life Data analysis work and wanted to upgrade my existing skill. I used advance software engineering tools to propose the concerned person with clear understanding of how the things will work. My proposal was accepted and i started a intern role as a data analysis .There was  a POS server from which i have to extract data,since datasets was too messy i cleaned it and made data tidy and started doing computation using Python libraries(numpy,pandas,matplotlib,seaborn,etc) once i got cleaned dataset i used Tableau for powerfull visualization and made multiple dashboard and then Python to find hidden correlation to find hidden insights.
